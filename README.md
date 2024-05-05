@@ -1,5 +1,5 @@
 # Proyecto Inteligencia Artificial
-## Clasificador de Imágenes Jurásicas: Reconocimiento de Dinosaurios con CNN
+## Clasificador de Imágenes Prehistóricas: Reconocimiento de Dinosaurios con CNN
 ---
 **Integrantes**
 - Maria Marta Ramirez Gil
