@@ -7,3 +7,6 @@
 - Diego Alberto Leiva Pérez 
 - José Pablo Orellana Orellana 
 ---
+
+## Video Explicativo
+[Click Aquí](https://youtu.be/vj63XCuTy8A)
